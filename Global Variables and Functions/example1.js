@@ -7,4 +7,4 @@ function greet(){
 }
 
 //Calling the function
-greet();
+greet(); // prints out "Welcome to JavaScript"
